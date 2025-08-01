@@ -1,0 +1,8 @@
+{
+  "name": "Solid sniffer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ffa49b08"
+}
