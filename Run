@@ -1,0 +1,4 @@
+npm
+install -g @ionic/cli @capacitor/assets
+git clone https://github.com/wario41/solid-sniffer.git solid-sniffer
+cd solid-sniffer && npm install && ionic serve
